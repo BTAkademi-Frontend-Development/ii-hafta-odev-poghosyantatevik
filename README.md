@@ -1,6 +1,7 @@
 # II-hafta-odev
 
 - Microsoft Azure AZ-900 ve AI-900 sertifikalarını almak için çalışmalara başlayınız.
+- [html, css](https://www.w3schools.com/html/html_css.asp)
 
 - Jekyll temelli kişisel web sayfası hazırlayıp Github reposunun linkini ekleyiniz.
 

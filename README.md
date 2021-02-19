@@ -20,9 +20,9 @@
 
 - CSS framework, CSS float property, CSS flexbox, CSS grid ile ilgili araştırmalarınızı yazınız?
 
-  :dart: seems to be a nice place to practice [flexbox] (http://www.flexboxdefense.com/)
+  :dart: seems to be a nice place to practice [flexbox](http://www.flexboxdefense.com/)
   
-  :dart: going to try this one as well [flexboxfroggy] (https://flexboxfroggy.com/#tr)
+  :dart: going to try this one as well [flexboxfroggy](https://flexboxfroggy.com/#tr)
 
 - HTML5 yenilikleri nelerdir?
 

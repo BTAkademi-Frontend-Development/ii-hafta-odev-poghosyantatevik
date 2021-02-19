@@ -2,7 +2,7 @@
 
 - Microsoft Azure AZ-900 ve AI-900 sertifikalarını almak için çalışmalara başlayınız.
 
- :dart: I have already started [Azure fundamentals](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing), after finishing will start AI-900.
+    :dart: I have already started [Azure fundamentals](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing), after finishing will start AI-900.
 
 - Jekyll temelli kişisel web sayfası hazırlayıp Github reposunun linkini ekleyiniz.
 

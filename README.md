@@ -30,4 +30,4 @@
 
 - HTML Encode ve URL Encode konularını araştırınız.
  
-- HTML Form'u kullanarak bir örnek oluşturunuz. Örnekleri Github reposuna ekleyiniz. [Form için bir kaynak örneğini görmek için tıklayınız.](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
+- HTML Form'u kullanarak bir örnek oluşturunuz. Örnekleri Github reposuna ekleyiniz. You can find my form from the following link [HTML-CSS FORM](https://github.com/poghosyantatevik/HTML-FORM#html-form)

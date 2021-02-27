@@ -16,7 +16,7 @@
 
 - Freecodecamp'teki HTML5 eğitimine başlayınız.
 
-  :dart: I have picked this course and already watched the first one hour [Learn HTML5 and CSS3 From Scratch](https://www.youtube.com/watch?v=mU6anWqZJcc)
+  :dart: I have created an account in freecodecamp.orgi started Responsive Web Design certification course, and have already completed HTML5 unit, [here is my profile link at freecodecamp.org](https://www.freecodecamp.org/tatevik-poghosyan)
 
 - CSS framework, CSS float property, CSS flexbox, CSS grid ile ilgili araştırmalarınızı yazınız?
 
